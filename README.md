@@ -1,11 +1,9 @@
 
 ---
 
-# 🌊 Sea Surface Temperature (SST) Prediction & Coral Habitat Analysis
-
 This project focuses on predicting **Sea Surface Temperature (SST)** in the Indian Ocean using multiple time series and deep learning models. The predicted SST is further integrated with **deep-sea coral distribution data** to study potential impacts on coral habitats.
 
-## 📌 Objectives
+##  Objectives
 
 * Predict SST from satellite observation data.
 * Compare different forecasting models: **LSTM, BiLSTM, RNN, ARIMA**.
@@ -13,7 +11,7 @@ This project focuses on predicting **Sea Surface Temperature (SST)** in the Indi
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 1. **Sea Surface Temperature (SST)**
 
@@ -29,7 +27,7 @@ This project focuses on predicting **Sea Surface Temperature (SST)** in the Indi
 
 ---
 
-## 🧠 Models Implemented
+##  Models Implemented
 
 ### 1. **LSTM (Long Short-Term Memory)**
 
@@ -53,7 +51,7 @@ This project focuses on predicting **Sea Surface Temperature (SST)** in the Indi
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 * **R² Score**
 * **RMSE (Root Mean Squared Error)**
@@ -62,7 +60,7 @@ This project focuses on predicting **Sea Surface Temperature (SST)** in the Indi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python 3.9+**
 * TensorFlow / Keras
@@ -72,6 +70,6 @@ This project focuses on predicting **Sea Surface Temperature (SST)** in the Indi
 
 ---
 
-📖 **Read more about this project here:*https://ieeexplore.ieee.org/document/10899654* 
+ **Read more about this project here:*https://ieeexplore.ieee.org/document/10899654* 
 
 ---
