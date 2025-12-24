@@ -1,6 +1,4 @@
 
----
-
 This project focuses on predicting **Sea Surface Temperature (SST)** using multiple time series and deep learning models. The predicted SST is further integrated with **deep-sea coral distribution data** to study potential impacts on coral habitats.
 
 ##  Objectives
